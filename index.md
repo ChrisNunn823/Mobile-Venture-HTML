@@ -7,7 +7,12 @@
   </head>
   
   <body>
-  <h1>Mobile Venture</h1>
+  
+    <h1>Mobile Venture</h1>
+    <h3>A DIY Life</h3>
+    
+    
+    
   
   
   </body>
